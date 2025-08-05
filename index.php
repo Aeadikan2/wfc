@@ -402,7 +402,7 @@
    </div>
 
    <footer>
-      <p>&copy; <?php echo date("Y"); ?> My Blog. All rights reserved.</p>
+      <p>&copy; <?php echo date("Y"); ?> WFC Blog. All rights reserved.</p>
    </footer>
 
 </body>
